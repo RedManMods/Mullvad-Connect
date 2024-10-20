@@ -15,5 +15,5 @@ This Python script interacts with the Mullvad VPN CLI and API to help users find
 
 ## How to Use
 1. Ensure the Mullvad VPN is installed.
-2. Run the script. Ex python mullvad_connect.py or run the included batch file
+2. Run the script. Ex python mullvad_connect.py or run the included batch file (will need to edit run_with_venv.bat to suit your needs)
 3. Follow the prompts to select a country, specify the maximum allowed ping (optional), and choose a tunneling protocol (optional).
