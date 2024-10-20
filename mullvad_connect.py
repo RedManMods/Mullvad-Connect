@@ -1,3 +1,5 @@
+# All Rights Reserved.
+# This code is proprietary and may not be used, copied, modified, or distributed without explicit permission from the owner.
 import requests
 import subprocess
 import platform
