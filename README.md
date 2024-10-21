@@ -2,8 +2,8 @@
 This Python script interacts with the Mullvad VPN CLI and API to help users find and connect to the fastest available VPN server in a specified country. It retrieves the list of Mullvad servers, checks their latency through ping tests, and allows users to connect to the server with the lowest ping time. The script is designed with flexibility in mind, allowing users to specify Max Ping, VPN tunneling protocols (OpenVPN or WireGuard) or leave it open to both.
 
 <img src="https://i.imgur.com/MWjLlJQ.png" alt="Terminal Screen Shot 1" width="350" height="450">
-<img src="[https://i.imgur.com/MWjLlJQ.png](https://i.imgur.com/f5you7r.png)" alt="Terminal Screen Shot 1" width="350" height="450">
-<img src="[https://i.imgur.com/MWjLlJQ.png](https://i.imgur.com/toSoHRf.png)](https://i.imgur.com/f5you7r.png)" alt="Terminal Screen Shot 1" width="350" height="450">
+<img src="[https://i.imgur.com/MWjLlJQ.png](https://i.imgur.com/f5you7r.png)" alt="Terminal Screen Shot 2" width="350" height="450">
+<img src="[https://i.imgur.com/MWjLlJQ.png](https://i.imgur.com/toSoHRf.png)](https://i.imgur.com/f5you7r.png)" alt="Terminal Screen Shot 3" width="350" height="450">
 
 ## Key Features
 - **Automatic Server Ping Test**: Pings all Mullvad servers in the chosen country and returns the fastest one.
