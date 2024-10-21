@@ -15,7 +15,7 @@ This Python script interacts with the Mullvad VPN CLI and API to help users find
 
 ## Prerequisites
 - **Mullvad VPN**
-- **Python 3.x**
+- **Python 3.13.0
 - **Requests library** for fetching server data.
 
 ## How to Use
